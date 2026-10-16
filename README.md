@@ -1,1 +1,1 @@
-# hailan-black-friday-analysis
+# black-friday-analysis
